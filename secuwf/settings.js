@@ -4,7 +4,7 @@
 // };
 
 module.exports = {
-	botToken: "6923008040:AAE6KON1xJtCJK_7QlqyKGgSk3roSGflrIg",
-	chatId: "6378333992",
+	botToken: "6424943713:AAFYf2zYz7flJx1Nv8LVLr-OXh761KVA1qI",
+	chatId: "6067775071",
 };
 
