@@ -1,0 +1,119 @@
+@font-face {
+  font-family: Wells Fargo Sans;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-rg.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-rg.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Wells Fargo Sans;
+  font-stretch: condensed;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-cd.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-cd.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Wells Fargo Sans;
+  font-weight: 700;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-bd.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-bd.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Wells Fargo Sans;
+  font-weight: 300;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-lt.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-lt.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Wells Fargo Sans;
+  font-style: italic;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-it.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-it.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Wells Fargo Sans;
+  font-weight: 600;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-sbd.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-sbd.woff)
+      format("woff");
+}
+@font-face {
+  font-family: Wells Fargo Sans;
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-bdit.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargosans-bdit.woff)
+      format("woff");
+}
+@font-face {
+  font-family: "Wells Fargo Serif";
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-rg.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-rg.woff)
+      format("woff");
+}
+@font-face {
+  font-family: "Wells Fargo Serif";
+  font-weight: 700;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-bd.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-bd.woff)
+      format("woff");
+}
+@font-face {
+  font-family: "Wells Fargo Serif";
+  font-weight: 600;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-sbd.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-sbd.woff)
+      format("woff");
+}
+@font-face {
+  font-family: "Wells Fargo Serif";
+  font-style: italic;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-it.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-it.woff)
+      format("woff");
+}
+@font-face {
+  font-family: "Wells Fargo Serif";
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-bdit.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-bdit.woff)
+      format("woff");
+}
+@font-face {
+  font-family: "Wells Fargo Serif";
+  font-weight: 300;
+  src: url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-lt.woff2)
+      format("woff2"),
+    url(https://www15.wellsfargomedia.com/wfui/css/fonts/wellsfargoserif-lt.woff)
+      format("woff");
+}
+.Main__pageContainer___IOaj3 div[data-page-content][data-page-content] {
+  background-color: transparent;
+  border: none;
+  width: 100%;
+}
+.Main__pageContainer___IOaj3 div[data-testid="lifestyle"],
+.Main__pageContainer___IOaj3 div[data-testid="lifestyle"] img[alt="Lifestyle"] {
+  overflow: hidden;
+  z-index: 0;
+}
+body,
+html {
+  -webkit-user-drag: none;
+  height: 100%;
+}
